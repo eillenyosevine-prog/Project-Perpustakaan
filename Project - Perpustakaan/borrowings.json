@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "y4ntojoko",
+    "book_id": 1,
+    "judul": "Atomic Habits",
+    "tanggal_pinjam": "15 September 2026",
+    "tanggal_kembali": "4 Oktober 2026",
+    "status": "Dikembalikan"
+  },
+  {
+    "id": 2,
+    "username": "ki2ayu",
+    "book_id": 2,
+    "judul": "Bumi",
+    "tanggal_pinjam": "6 Oktober 2026",
+    "tanggal_kembali": "-",
+    "status": "Dipinjam"
+  }
+]

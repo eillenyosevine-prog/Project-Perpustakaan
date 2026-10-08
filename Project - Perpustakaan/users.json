@@ -1,0 +1,50 @@
+{
+  "tianreformis": {
+    "nama": "Tian Reformis",
+    "username": "tianreformis",
+    "email": "tianreformis@gmail.com",
+    "role": "Admin",
+    "status": "Aktif",
+    "password": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090"
+  },
+  "eillenyosevine": {
+    "nama": "Eillen Yosevine",
+    "username": "zzz",
+    "email": "eillen.yosevine@gmail.com",
+    "role": "Admin",
+    "status": "Aktif",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+  },
+  "sitilstr": {
+    "nama": "Siti Lestari",
+    "email": "sitil3st4ri@gmail.com",
+    "peran": "Anggota",
+    "status": "Aktif",
+    "password": "573e596a31ec82e852b14139cffd19e542681c14ee57eb4f75bd6ad8cd025f80",
+    "role": "Pustakawan"
+  },
+  "adi123": {
+    "nama": "Adi",
+    "email": "adi321@gmail.com",
+    "peran": "Anggota",
+    "status": "Tidak Aktif",
+    "password": "8226b8f4325191ea23b36dc40545e01cf39804020c64a147e0d6b83d80b64ce3",
+    "role": "Anggota"
+  },
+  "ki2ayu": {
+    "nama": "Kiki Ayu",
+    "email": "kikiayu@gmail.com",
+    "peran": "Anggota",
+    "status": "Aktif",
+    "password": "d903e8ed3a87d47c3f3507ddfa7bf729cbcefced44aefadf74cec5c6651495be",
+    "role": "Anggota"
+  },
+  "y4ntojoko": {
+    "nama": "Joko Yanto",
+    "email": "jokoy@gmail.com",
+    "peran": "Anggota",
+    "status": "Aktif",
+    "password": "29e813fc5763a1d1ec329bf63312ed9e95973ae9c2d0c323b452342e5a1ae54a",
+    "role": "Anggota"
+  }
+}

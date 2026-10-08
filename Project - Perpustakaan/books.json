@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "judul": "Atomic Habits",
+    "penulis": "James Clear",
+    "kategori": "Pengembangan Diri",
+    "tahun": "2024",
+    "stok": 10
+  },
+  {
+    "id": 2,
+    "judul": "Bumi",
+    "penulis": "Tere Liye",
+    "kategori": "Fiksi",
+    "tahun": "2024",
+    "stok": 14
+  },
+  {
+    "id": 3,
+    "judul": "Bumi Manusia",
+    "penulis": "Pramoedya Ananta Toer",
+    "kategori": "Sejarah",
+    "tahun": "2024",
+    "stok": 12
+  },
+  {
+    "id": 4,
+    "judul": "Filosofi Teras",
+    "penulis": "Henry Manampiring",
+    "kategori": "Pengembangan Diri",
+    "tahun": "2024",
+    "stok": 11
+  },
+  {
+    "id": 5,
+    "judul": "Garis Waktu",
+    "penulis": "Fiersa Besari",
+    "kategori": "Fiksi",
+    "tahun": "2024",
+    "stok": 10
+  },
+  {
+    "id": 6,
+    "judul": "Hujan",
+    "penulis": "Tere Liye",
+    "kategori": "Fiksi",
+    "tahun": "2024",
+    "stok": 4
+  },
+  {
+    "id": 7,
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "kategori": "Fiksi",
+    "tahun": "2024",
+    "stok": 5
+  },
+  {
+    "id": 8,
+    "judul": "Laut Bercerita",
+    "penulis": "Leila S. Chudori",
+    "kategori": "Sejarah",
+    "tahun": "2024",
+    "stok": 3
+  },
+  {
+    "id": 9,
+    "judul": "Negeri 5 Menara",
+    "penulis": "A. Fuadi",
+    "kategori": "Fiksi",
+    "tahun": "2009",
+    "stok": 4
+  },
+  {
+    "id": 10,
+    "judul": "Pulang",
+    "penulis": "Leila S. Chudori",
+    "kategori": "Sejarah",
+    "tahun": "2024",
+    "stok": 3
+  }
+]
